@@ -36,3 +36,7 @@ Time (monthly trends)
 Created charts like bar charts, line charts, and donut charts to represent insights.
 6)Dashboard Creation
 Designed an interactive dashboard with KPIs and visuals for easy understanding.
+
+## Dashboard 
+<img width="1013" height="505" alt="Screenshot 2026-03-18 171433" src="https://github.com/user-attachments/assets/cd18601e-7d32-46c9-8bb0-dea85886f13c" />
+(https://github.com/rinadatahub/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-18%20171433.png)
