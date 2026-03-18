@@ -40,3 +40,16 @@ Designed an interactive dashboard with KPIs and visuals for easy understanding.
 ## Dashboard 
 <img width="1013" height="505" alt="Screenshot 2026-03-18 171433" src="https://github.com/user-attachments/assets/cd18601e-7d32-46c9-8bb0-dea85886f13c" />
 (https://github.com/rinadatahub/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-18%20171433.png)
+
+## project insight
+1) Cars contribute the highest number of casualties, making them the most involved vehicle type in accidents.
+2) Single carriageway roads have the most accidents, indicating higher risk compared to other road types.
+3) Most accidents occur on dry road conditions, showing that driver behavior plays a bigger role than weather.
+4)Urban areas record more accidents than rural areas, likely due to higher traffic density.
+5)A significant number of accidents happen in daylight, not just at night as commonly assumed.
+6)Monthly trends show fluctuations, helping identify peak accident periods.
+7)Slight injuries are the most common, while fatal cases are lower but still critical.
+
+## Final Conclusion:
+The Road Accident Dashboard reveals that accidents are mainly influenced by traffic volume, road type, and driver behavior rather than just environmental conditions. High accident rates in urban areas, on dry roads, and during daylight indicate the need for better traffic management and stricter driving regulations.
+This project demonstrates how data analysis can help identify high-risk factors and support data-driven decisions to improve road safety and reduce casualties.
