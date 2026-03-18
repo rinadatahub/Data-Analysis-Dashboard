@@ -45,7 +45,7 @@ Designed an interactive dashboard with KPIs and visuals for easy understanding.
 1) Cars contribute the highest number of casualties, making them the most involved vehicle type in accidents.
 2) Single carriageway roads have the most accidents, indicating higher risk compared to other road types.
 3) Most accidents occur on dry road conditions, showing that driver behavior plays a bigger role than weather.
-4)Urban areas record more accidents than rural areas, likely due to higher traffic density.
+4) Urban areas record more accidents than rural areas, likely due to higher traffic density.
 
 ## Final Conclusion:
 The Road Accident Dashboard reveals that accidents are mainly influenced by traffic volume, road type, and driver behavior rather than just environmental conditions. High accident rates in urban areas, on dry roads, and during daylight indicate the need for better traffic management and stricter driving regulations.
