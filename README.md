@@ -46,9 +46,6 @@ Designed an interactive dashboard with KPIs and visuals for easy understanding.
 2) Single carriageway roads have the most accidents, indicating higher risk compared to other road types.
 3) Most accidents occur on dry road conditions, showing that driver behavior plays a bigger role than weather.
 4)Urban areas record more accidents than rural areas, likely due to higher traffic density.
-5)A significant number of accidents happen in daylight, not just at night as commonly assumed.
-6)Monthly trends show fluctuations, helping identify peak accident periods.
-7)Slight injuries are the most common, while fatal cases are lower but still critical.
 
 ## Final Conclusion:
 The Road Accident Dashboard reveals that accidents are mainly influenced by traffic volume, road type, and driver behavior rather than just environmental conditions. High accident rates in urban areas, on dry roads, and during daylight indicate the need for better traffic management and stricter driving regulations.
